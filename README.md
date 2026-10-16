@@ -74,3 +74,9 @@ WorkBuddy 的 Skills 管理中选择「从仓库导入」，填入本仓库地�
 
 - 全部方法论文档为纯文本（Markdown），可直接修改以适配自己的场景
 - `assets/` 样板报告中的全部数据均来自公开渠道，仅作流程演示
+
+## License
+
+本项目采用 [MIT License](LICENSE) 开源。
+
+`电商取数扩展（可选）/` 中打包的第三方工具版权归各自作者所有，沿用其原始许可证：cn-scraper-mcp（MIT）、xiaohongshu-mcp（Apache 2.0）。
